@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+    <groups>
+      <group name="book">
+        <method signature="Grouping_1.books()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="books" class="com.Sheet.Grouping_1"/>
+        <method signature="Grouping_1.navel()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="navel" class="com.Sheet.Grouping_1"/>
+      </group> <!-- book -->
+      <group name="Electronics">
+        <method signature="Grouping_1.earphone()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="earphone" class="com.Sheet.Grouping_1"/>
+        <method signature="Grouping_1.laptop_Search()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="laptop_Search" class="com.Sheet.Grouping_1"/>
+        <method signature="Grouping_1.mobile_Search()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="mobile_Search" class="com.Sheet.Grouping_1"/>
+      </group> <!-- Electronics -->
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+      <class name="com.Sheet.Grouping_1">
+        <test-method status="PASS" signature="books()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="books" duration-ms="15" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- books -->
+        <test-method status="PASS" signature="earphone()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="earphone" duration-ms="0" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earphone -->
+        <test-method status="PASS" signature="laptop_Search()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="laptop_Search" duration-ms="16" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptop_Search -->
+        <test-method status="PASS" signature="navel()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="navel" duration-ms="0" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navel -->
+        <test-method status="PASS" signature="mobile_Search()[pri:0, instance:com.Sheet.Grouping_1@2b552920]" name="mobile_Search" duration-ms="0" started-at="2021-01-30T11:51:48 IST" finished-at="2021-01-30T11:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile_Search -->
+      </class> <!-- com.Sheet.Grouping_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
